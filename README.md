@@ -16,7 +16,7 @@ make
 ◦ The W, A, S, and D keys --> move the point of view through the maze.
 ◦ Pressing ESC or --> close the window and quit the program cleanly.
 
-![Screenshot](screenshots_Readme/Screenshot_1.png)
+![Screenshot](screenshots_Readme/s1.png)
 
-![Screenshot](screenshots_Readme/Screenshot_2.png)
+![Screenshot](screenshots_Readme/s2.png)
 
