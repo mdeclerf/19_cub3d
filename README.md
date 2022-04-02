@@ -4,7 +4,7 @@ This project is inspired by the world-famous eponymous 90's game, which was the 
 Done with goffauxs (github.com/goffauxs)
 
 make
-./cub3D <path to map>
+./cub3D [path to map]
 
 ◦ The map must be composed of only 6 possible characters: 0 for an empty space, 1 for a wall, and N,S,E or W for the player’s start position and spawning orientation. <br>
 ◦ The map must be closed/surrounded by walls. <br>
